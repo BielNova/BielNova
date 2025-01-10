@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou estudante de Ciência da Computação, atualmente no primeiro período, com grande entusiasmo por tecnologia e aprendizado contínuo. Estou desenvolvendo habilidades em programação, lógica computacional e 
+  Sou estudante de Ciência da Computação, atualmente no segundo período, com grande entusiasmo por tecnologia e aprendizado contínuo. Estou desenvolvendo habilidades em programação, lógica computacional e 
   resolução de problemas, com o objetivo de me especializar em áreas como desenvolvimento de software, inteligência artificial, ciência de dados, desenvolvimento de jogos e cibersegurança e DevOps
 </p>
 
